@@ -1,0 +1,18 @@
+
+/* RESETANDO O CSS */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #132742;
+}
+
+/* TROCA DE FONTE */
+body{
+  font-family: sans-serif;
+  color: #FFF;
+}
+
+button{
+  cursor: pointer;
+}
